@@ -26,6 +26,3 @@ Dataset Source: **[Iris Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/
 📫 Contact: **www.linkedin.com/in/kanishkayadvv**
 
 Author: Kanishka Yadav
-```
-
----
